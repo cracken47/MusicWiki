@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MusicWiki</string>
+    <string name="error_message">Oops! something went wrong.</string>
+    <item name="reservedNamedId" type="id" />
+</resources>
