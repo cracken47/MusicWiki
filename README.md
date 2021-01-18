@@ -4,3 +4,5 @@
 3. dagger 2
 4. mvvm architecture except roomdb
 5. interfaces for click listeners in adapters
+6. api dispacthers for api calling
+
